@@ -1,1 +1,2 @@
 Initial contents from remote repo
+From local repo
